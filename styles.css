@@ -11,8 +11,8 @@ body {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff6a5e);
-    border: 2px solid #ff479e;
+    background: linear-gradient(135deg, #f7e708, #d6b319, #c0b521);
+    border: 2px solid #f5721b;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
     border-radius: 15px;
     animation: fadeIn 1.5s ease-in-out;
@@ -33,7 +33,7 @@ header {
 header h1 {
     font-size: 2.5em;
     margin: 0;
-    background: -webkit-linear-gradient(45deg, #ffcc33, #ff6699);
+    background: -webkit-linear-gradient(45deg, #53f9ff85, #0e87f8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
